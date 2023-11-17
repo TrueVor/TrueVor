@@ -1,6 +1,1 @@
-# TrueVor
-Hello guys!
-
-This is my new Repo that I made to start creating tweaks and update some tweaks that I like.
-
-Welcome!
+[![trophy](https://github-profile-trophy.vercel.app/?username=TrueVor)](https://github.com/TrueVor/github-profile-trophy)
